@@ -1,4 +1,4 @@
-![Fridge to Pepper Exploit, with pepper packets spread across a table](docs/media/banner.png)
+![Fridge to Pepper Exploit, with the refrigerator from the experiment and pepper packets spread across a table](docs/media/banner.png)
 
 # Fridge to Pepper
 

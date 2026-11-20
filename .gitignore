@@ -1,0 +1,10 @@
+.DS_Store
+resources/
+production/
+.local/
+__pycache__/
+/scripts/
+.env
+.env.*
+!.env.example
+*.log

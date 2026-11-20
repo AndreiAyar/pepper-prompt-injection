@@ -25,7 +25,7 @@ The bottom block in the film is Romanian. The supplied reexports translate that 
 | System | Observation | Evidence |
 | --- | --- | --- |
 | Perplexity Comet | Pepper search, 50 units in the cart, order submission, merchant confirmation | [Cart](../evidence/cart-and-model.png), [confirmation](../evidence/order-confirmation.png) |
-| Comet payment | Agent summary says online card payment still needs confirmation | [Summary](../evidence/payment-note.png) |
+| Comet payment | The merchant page says card payment was unconfirmed. The assistant summary agrees. | [Merchant payment status](../evidence/merchant-payment-status.png), [assistant summary](../evidence/payment-note.png) |
 | Comet model labels | Gemini 3 Flash appears before submission; Claude Sonnet 4.5 appears during the cart sequence | [Selector](../evidence/model-selector.png), [cart](../evidence/cart-and-model.png) |
 | ChatGPT Atlas | Agent searches for pepper and opens the listing while the refrigerator image is attached. The conversation header displays ChatGPT 5.2. | [Atlas frame](../evidence/atlas.png), [model label](../evidence/atlas-model.png) |
 

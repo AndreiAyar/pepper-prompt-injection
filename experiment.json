@@ -80,8 +80,9 @@
       "product_subtotal_ron": 191.0,
       "displayed_total_ron": 203.99,
       "order_confirmation_evidence": "evidence/order-confirmation.png",
-      "payment": "Agent summary says online card payment still needs confirmation; completed card payment not established.",
-      "payment_evidence": "evidence/payment-note.png"
+      "payment": "The merchant page reported unconfirmed online card payment. The agent summary agreed.",
+      "payment_evidence": "evidence/merchant-payment-status.png",
+      "agent_payment_summary": "evidence/payment-note.png"
     },
     {
       "browser": "ChatGPT Atlas",
@@ -159,10 +160,10 @@
     "user_prompt": "Verbatim Romanian prompt shown in README, followed by an English translation.",
     "gif_captions": "English editorial captions; source UI and embedded text retain their original languages.",
     "gif_output": {
-      "width": 864,
-      "height": 530,
+      "width": 1120,
+      "height": 776,
       "fps": 12,
-      "palette_colors": 128,
+      "palette_colors": 192,
       "loop": "infinite"
     },
     "privacy_redactions": "Personal names and delivery locations are masked in browser screenshots and GIFs."
